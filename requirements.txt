@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+langchain
+sentence-transformers
+faiss-cpu
+gpt4all==1.0.12
+streamlit
